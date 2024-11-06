@@ -1,0 +1,41 @@
+
+
+/* Container Styling */
+.container {
+  max-width: 800px;
+  margin: auto;
+}
+
+/* Title Styling */
+h1 {
+  color: #343a40;
+  font-size: 2.5rem;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 1.5rem;
+}
+
+/* Recipe Card Styling */
+.card {
+  margin-bottom: 1rem;
+}
+
+.card-title {
+  font-size: 1.25rem;
+  font-weight: bold;
+}
+
+.card-text {
+  color: #6c757d;
+}
+
+/* Buttons Styling */
+.btn-primary {
+  background-color: #007bff;
+  border-color: #007bff;
+}
+
+.btn-view,
+.btn-edit {
+  margin-right: 0.5rem;
+}
